@@ -1,0 +1,22 @@
+#wrap {
+	width: 800px;
+	margin: 0 auto 0 auto;
+}
+
+#detailBoard {
+	text-align: center;
+}
+
+#title {
+	height: 16;
+	font-family: '돋움';
+	font-size: 12;
+	text-align: center;
+	background-color: #F7F7F7;
+}
+
+#btn {
+	font-family: '돋움';
+	font-size: 14;
+	text-align: center;
+}

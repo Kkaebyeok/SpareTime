@@ -1,0 +1,25 @@
+#content {padding: 0 2% 10px 5%;}
+/* section */
+.myinfo {margin-top: 7%;}
+.box {width: 100%;}
+.top {font-size: x-large;}
+.middle {border: 1px solid lightgray; margin-top: 10px; width: 60%; height: 300px; float: left;}
+.back-icon {width: 18%; margin-top: 8%;}
+.back-icon > a {font-weight: bold;}
+.back-icon > a > p {height:25px; background: url("../images/backicon.PNG") no-repeat; margin-top: 40%; padding-left: 80px; padding-top: 12px;}
+
+/* section > mid-content */
+.mid-content {background: url("../images/userphoto.PNG") no-repeat; background-position-x: 5%; background-position-y: 5%; background-size: 110px 110px;}
+.text {margin-left: 25%; margin-top: 5%; margin-bottom: 5%;}
+.text > span:nth-child(2) {font-weight: bold; border: 1px solid white; padding: 2px 20px 2px 20px; background: lightgray; border-radius: 5px; margin-bottom: 2.5%;}
+.text > span:nth-child(3) {font-weight: bold; margin-left: 72.5%; border: 1px solid white; padding: 2px 20px 2px 20px; background: lightgray; border-radius: 5px; margin-bottom: 2.5%;}
+.text > span > a {color: #e74c3c;}
+.text > span > p {width: 350px;}
+.text > span > button {color: #e74c3c; border: none; background: lightgray; font-size: medium; font-weight: bold; cursor: pointer;}
+.firstline {display: flex; justify-content: space-between; clear: both; padding-top: 10%;}
+.secondline {display: flex; justify-content: space-between;}
+.firstline > p {border: 1px solid lightgray; width: 25%;text-align: center; border-bottom-style: none; padding-bottom: 10px; padding-top: 2.5%; padding-bottom: 5%; font-weight: bold; color: #5abd80;}
+.secondline > p {border: 1px solid lightgray; width: 25%;text-align: center; border-top-style: none; padding-bottom: 10px; padding-bottom: 2.5%; color: #f5d255; font-weight: bold;}
+
+/* side */
+.side > img {height: 200px; margin-left: 75px; margin-top: 60px;]

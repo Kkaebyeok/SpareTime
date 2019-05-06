@@ -1,0 +1,18 @@
+ #content {padding: 0 2% 0 5%;}
+/* section */
+.myinfo {margin-top: 7%;}
+.box {width: 100%;}
+.top {font-size: x-large;}
+.middle {border: 1px solid lightgray; margin-top: 10px; width: 60%; height: 320px; float: left;}
+.back-icon {width: 15%; margin-top: 8%;}
+.back-icon > a {font-weight: bold;}
+.back-icon > a > p {height:25px; background: url("../images/backicon.PNG") no-repeat; margin-top: 40%; padding-left: 80px; padding-top: 12px;}
+.border {height: 30px; margin-top: 10px;}
+.left {float: left; margin-left: 5%;}
+.right {float: right; margin-right: 5%;}
+.button {margin-top: 15px;}
+.button input:nth-child(1) {margin-right: 150px;}
+.info {margin-top: 2%;}
+.side > img {height: 200px; margin-left: 75px; margin-top: 60px;]
+.profile {padding-top: 0;}
+.radio {margin-top: 15px; margin-left: 40px;}

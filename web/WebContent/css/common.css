@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container {
+    width: 1200px;
+    margin: 0 auto;
+    text-decoration: none;
+}
+header {
+    background: url("../images/logo.jpg"),url("../images/smile.PNG");
+    background-repeat: no-repeat;
+    background-color: white;
+    height: 100px;
+    background-size: 9.5%, 6%;
+    background-position: right, 80%;
+    background-position-y: 100%, 100%;
+}
+#content {
+    box-sizing: border-box;
+    float: left;
+    width: 100%;
+}
+
+/* header */
+li {list-style-type: none; display: inline; font-size: 17px; margin: 28px; font-weight: bold; color: black;}
+a {text-decoration: none; color: black;}
+span {margin: 5px;}
+span > a {color: black;}
+span h1 {padding-top: 5px; padding-left: 15px;}
+.main > nav {float: right; padding-right: 490px; }
+div > span {float: left;}
+header > nav:nth-child(1) {float: right;}
+header > nav:nth-child(2) {clear: both;}
+header > nav {padding-top: 10px; padding-left: 10px;}
+.main > ul {float: right; padding-right: 150px; padding-top: 3px;}
+.user-state > a > li {font-size: small; margin-left: 10px; color: lightgrey; }
+div > hr {margin-top: 10px;}
+li:hover {text-decoration: underline;}
+
+/* footer */
+.photo {float: right;}
+.photo img {width: 125px; height: 125px;}
+.profile {clear: both; text-align: center; padding-top: 50px; display: flex; font-size: small; margin-left: 32%;}
+.profile p {margin-right: 10px;}
+.profile hr {margin: 0;}
+.profile p span {color: rosybrown;}
+.profile a {margin-left: 10px; font-weight: bold;}
+

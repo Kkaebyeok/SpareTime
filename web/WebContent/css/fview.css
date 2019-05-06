@@ -1,0 +1,19 @@
+@charset "UTF-8";
+#content {padding: 15px 2% 10px 5%;}
+.notice {margin-top: 7%;}
+.box {width: 85%; float: left;}
+.top {font-size: x-large;}
+.top > h4 {font-size: 20px; margin-top: 25px;}
+.top > p {font-size: 16px; color: lightgray; margin-top: 15px;float: left;}
+.top > span {font-size: 16px; color: lightgray; margin-top: 12px; float: right;}
+.top > hr {margin-top: 20px; clear: both;}
+.text {padding: 3% 3%; font-size: 18px; min-height: 250px;}
+.text > img {width: 200px; float: left;}
+.text > p {float: left; margin-left: 5%;}
+.modify{font-weight: bold; width: 40px; float: right; margin-top: 10px;}
+.back-icon {width: 18%; clear: both;}
+.back-icon > a { font-weight: bold;}
+.back-icon > a > p {height:25px; background: url("../images/backicon.PNG") no-repeat; margin-top: 5%; padding-left: 80px; padding-top: 12px;}
+#button {border-style: none; background: white; margin-top: 20px; cursor: pointer; font-size: medium; font-weight: bold;}
+header > nav {padding-top: 10px;}
+span h1 {padding-top: 10px;}

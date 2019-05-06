@@ -1,0 +1,24 @@
+#content {top: -80px; position: absolute;}
+/* header */
+.main {position: relative; z-index: 999;}
+/* section */
+.translucent-box {width: 335px; height: 825px; margin: 100px 0; background: rgba(0, 0, 0, 0.298039); margin-left: 382px; padding-top: 30px; padding-left: 50px; padding-right: 50px;}
+.topbox {background: white; width: 335px; height: 790px; }
+.border {height: 30px; margin-top: 10px;}
+form > a {margin-left: 40px; margin-right: 60px;}
+form > div {padding-left: 30px;}
+.member-id {padding-top: 30px; padding-bottom: 30px;}
+.member-id > input {border-top-style: none; border-left-style: none; border-right-style: none; border-bottom-color: #4abeca;}
+.member-pw {padding-bottom: 30px;}
+.member-pw > label {color: lightgray; font-weight: bold; font-size: small}
+.member-pw > input {border-top-style: none; border-left-style: none; border-right-style: none; border-bottom-color: #4abeca;}
+.member-etc {padding-bottom: 25px;}
+.member-etc > label {font-weight: bold; font-size: small}
+.member-etc > input {border-top-style: none; border-left-style: none; border-right-style: none; border-bottom-color: #4abeca;}
+.button {display: flex; padding-top: 20px;}
+.button > a:nth-child(1) {color: lightgray;margin-left: 30px;}
+.button > input {color: #4abeca; border-style: none; background: white; font-size: 16px;margin-left: 140px; cursor: pointer;}
+.check {float: right; margin-right: 16%;}
+.radio {margin-top: 15px; margin-left: 40px;}
+/* footer */
+.profile {background-size: 10%; margin-top: 35%;}

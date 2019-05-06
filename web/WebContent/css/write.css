@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#content {padding: 15px 2% 10px 5%;}
+.notice {margin-top: 10%;}
+.header {font-size: x-large}
+.table {width: 80%; border-spacing: .1px; text-align: left; line-height: 1.5; margin : 20px 0;}
+.table th {padding: 10px;}
+.table td {padding: 10px; border-bottom: 1px solid #ccc;}
+.text {width: 90px; text-align: center;}
+input[name=title] {padding: 5px; width: 98%; font-size: medium;}
+input[name=writer] {border: none; padding: 5px; font-size: medium;}
+.buttons button {font-weight: bold; border: none; width: 80px; padding: 5px;}
+.buttons button:hover {cursor: pointer;}
+button[type=submit] {float: right;}
+.ck-editor__editable {min-height: 400px;}
+
